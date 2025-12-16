@@ -9,7 +9,7 @@ Project Overview
 The Simple Interest Calculator computes the interest earned on a principal amount over a specified time period at a given annual interest rate. 
 The formula used is a standard mathematical expression widely applied in finance and lending.
 
-Calculation Formula
+Calculation Formula:
 
 The calculator uses the following formula:
 
@@ -24,7 +24,7 @@ t — Time period in years
 r — Annual rate of interest (in percentage)
 
 
-Input Requirements
+Input Requirements:
 
 Users are expected to provide:
 
@@ -33,7 +33,6 @@ p: Principal amount
 t: Time duration (in years)
 
 r: Annual interest rate
-
 
 Output
 
