@@ -16,7 +16,7 @@ Documentation updates
 
 Suggestions and improvement ideas
 
-Your contributions help make this project better for the entire community.
+Your contributions to help make this project better for the entire community.
 
 Contribution Process
 1. Fork the Repository
